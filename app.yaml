@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: Project_1_AA
+owner: mukhammadpower
+package: .
+scaling:
+  mode: single_concurrency
